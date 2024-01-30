@@ -8,7 +8,7 @@ A file sharing program made in node.js used for sharing files from your phone to
 https://lyx-organization.gitbook.io/skysync/how-to-use
 ## Authors
 
-- [@lyxcheating](https://www.github.com/lyxcheating)
+- [@lyxcheating](https://www.youtube.com/@lyxcheats)
 
 
 and ur done!

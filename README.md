@@ -1,10 +1,14 @@
-#SkySync a file sharing program made in node.js used for sharing files from your phone to Pc with local network
+
+# Phone to Pc sharing with local network
+
+A file sharing program made in node.js used for sharing files from your phone to Pc with local network
 
 
-HOW TO USE
-run the requirements.bat to install all requirements
-run the start.exe to run a local server on your network (if you don't trust me there is another file for starting the server named "use this if you don't trust the exe file.py")
-phone and pc have to be connected to the same wifi
-get your pc ip adress and on your phone write ipadress:3000 (ipadress is your pc ip)
+## HOW TO USE
+https://lyx-organization.gitbook.io/skysync/how-to-use
+## Authors
+
+- [@lyxcheating](https://www.github.com/lyxcheating)
+
 
 and ur done!

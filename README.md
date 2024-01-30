@@ -1,4 +1,4 @@
-#SkySync a file sharing program made in node.js used for sharing files from iOS to Pc with local network
+#SkySync a file sharing program made in node.js used for sharing files from your phone to Pc with local network
 
 
 HOW TO USE
